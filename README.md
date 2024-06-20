@@ -16,10 +16,11 @@
 
  <br/>
 
-<p align="center"><span style="color: #26A9E0; font-size: 25px;">Dominic Daly</span></p>
-<p align="center"><span style="color: #26A9E0; font-size: 25px;">BIndDes(Hons)</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 27px;">Dominic Daly</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 27px;">BIndDes(Hons)</span></p>
 
-
+<br/>
+<br/>
 
 # About Me
 
