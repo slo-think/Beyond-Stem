@@ -7,8 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Industrial%20Designer%20;Interested%20in%20Problem%20Solving%20;Creative%20Thinking%20;Research%20and%20Development%20;7%2B%20years%20of%20Rapid%20Prototyping%20experience%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=#26A9E0&vCenter=true&pause=900&size=22" /></a>
 </p>
-<p align="center" style="color: #26A9E0;">Dominic Daly</p>
-<p align="center" style="color: #26A9E0;">BIndDes(Hons)</p>
+
  <br/>
 
 <!-- Social icons section -->
@@ -17,9 +16,6 @@
 
  <br/>
 
-### <span style="color: #26A9E0;">Dominic Daly</span>
-### <span style="color: #26A9E0;">BIndDes(Hons)</span>
-
 <p align="center"><span style="color: #26A9E0; font-size: 50px;">Dominic Daly</span></p>
 <p align="center"><span style="color: #26A9E0; font-size: 50px;">BIndDes(Hons)</span></p>
 
@@ -27,7 +23,9 @@
 
 # About Me
 
-I am an Industrial Designer from Brisbane with a passion for problem-solving, innovation, and continuous improvement. I enjoy work that allows me to use creative thinking to innovate and create new ideas and solutions to hard problems. 
+I am an Industrial Designer from Brisbane with a passion for problem-solving, innovation, and continuous improvement. 
+
+I enjoy work that allows me to use creative thinking to innovate and create new ideas and solutions to hard problems. 
 
 I am interested in developing ideas, making objects and developing innovative processes. 
 
