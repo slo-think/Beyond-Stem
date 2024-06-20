@@ -25,7 +25,7 @@ I am interested in developing ideas, making objects and developing innovative pr
 
 I have lived in Brisbane since 2012. I moved to Brisbane from a rural town in QLD to study Industrial Design at QUT graduating with a Bachelor of Industrial Design (Honours) with a minor in Graphic Design.
 
-I offer Industrial Design services for a select number of word-of-mouth clients and also run a design studio, [Studio Blackthorn](www.studioblackthorn.com.au). 
+I offer Industrial Design services for a select number of word-of-mouth clients and also run a design studio, [Studio Blackthorn](http://www.studioblackthorn.com.au). 
 
 With a focus on arts, industrial design, furniture design, and design for manufacturing, I actively collaborate with workshops, creative studios, and art practices to explore new methods and mediums. I am currently engaged in exploring the unique possibilities of 3D printing for producing finished pieces. 
 
