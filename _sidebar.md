@@ -1,2 +1,0 @@
-- [About Me](README)
-- [Quote for life](second-page)
