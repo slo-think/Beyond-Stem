@@ -17,6 +17,14 @@
 
  <br/>
 
+### <span style="color: #26A9E0;">Dominic Daly</span>
+### <span style="color: #26A9E0;">BIndDes(Hons)</span>
+
+<p align="center"><span style="color: #26A9E0; font-size: 50px;">Dominic Daly</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 50px;">BIndDes(Hons)</span></p>
+
+
+
 # About Me
 
 I am an Industrial Designer from Brisbane with a passion for problem-solving, innovation, and continuous improvement. I enjoy work that allows me to use creative thinking to innovate and create new ideas and solutions to hard problems. 
