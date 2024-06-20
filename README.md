@@ -7,8 +7,8 @@
 
  <br/>
 
-<p align="center"><span style="color: #26A9E0; font-size: 32px;">Dominic Daly</span></p>
-<p align="center"><span style="color: #26A9E0; font-size: 32px;">BIndDes(Hons)</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 27px;">Dominic Daly</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 27px;">BIndDes(Hons)</span></p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -23,13 +23,13 @@
 
 # About Me
 
-I am an Industrial Designer from Brisbane with a passion for problem-solving, innovation, and continuous improvement. 
+I am an Industrial Designer based in Brisbane with a passion for problem-solving, innovation, and continuous improvement. 
 
-I enjoy work that allows me to use creative thinking to innovate and create new ideas and solutions to hard problems. 
+I enjoy work that allows me to use creative thinking to innovate and find solutions to hard problems. 
 
 I am interested in developing ideas, making objects and developing innovative processes. 
 
-I have lived in Brisbane since 2012. I moved to Brisbane from a rural town in QLD to study Industrial Design at QUT graduating with a Bachelor of Industrial Design (Honours) with a minor in Graphic Design.
+I moved to Brisbane from a rural town in QLD in 2012 to study Industrial Design at QUT graduating with a Bachelor of Industrial Design (Honours) with a minor in Graphic Design.
 
 I offer Industrial Design services for a select number of word-of-mouth clients and also run a design studio, [Studio Blackthorn](http://www.studioblackthorn.com.au). 
 
