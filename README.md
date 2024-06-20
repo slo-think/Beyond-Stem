@@ -5,31 +5,32 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Industrial%20Designer%20;R%20&%20D%20%20Prototyping;10%2B%20years%20of%20Rapid%20Prototyping%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=Blue&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Industrial%20Designer%20;Interested%20in%20Problem%20Solving%20;Creative%20Thinking%20;Research%20and%20Development%20;7%2B%20years%20of%20Rapid%20Prototyping%20experience%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=Blue&vCenter=true&pause=900&size=22" /></a>
 </p>
 <p align="center" style="color: blue;">Dominic Daly</p>
+<p align="center" style="color: blue;">BIndDes(Hons)</p>
+ <br/>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
+  <a href="https://www.linkedin.com/in/dominic-daly-6256a5157"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/78apom3.png"/></a>
 
-<br/>
+ <br/>
 
-# Beyond Stem
+# About Me
 
-# Your Project Title
+I am an Industrial Designer from Brisbane with a passion for problem-solving, innovation, and continuous improvement. I enjoy work that allows me to use creative thinking to innovate and create new ideas and solutions to hard problems. 
 
-## Other sections of your README
+I am interested in developing ideas, making objects and developing innovative processes. 
+
+I have lived in Brisbane since 2012. I moved to Brisbane from a rural town in QLD to study Industrial Design at QUT graduating with a Bachelor of Industrial Design (Honours) with a minor in Graphic Design.
+
+I offer Industrial Design services for a select number of word-of-mouth clients and also run a design studio, [Studio Blackthorn](studioblackthorn.com.au). 
+
+With a focus on arts, industrial design, furniture design, and design for manufacturing, I actively collaborate with workshops, creative studios, and art practices to explore new methods and mediums. I am currently engaged in exploring the unique possibilities of 3D printing for producing finished pieces. In the big picture, I like to pay attention to how things come together and how they look and interact within a space.
+
+ <br/>
+
+## Contact me
+
+Please email me [here](mailto:dominic@beyondstem.com.au) to talk about your future project.
