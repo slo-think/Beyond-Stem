@@ -1,3 +1,3 @@
-# Example Second Page
+# Quote for life
 
-This is an example second page that will appear in the Docsify Sidebar.
+Fall in love with the problem, not the solution
