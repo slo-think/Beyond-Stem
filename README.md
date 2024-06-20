@@ -8,8 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Industrial%20Designer%20;Interested%20in%20Problem%20Solving%20;Creative%20Thinking%20;Research%20and%20Development%20;7%2B%20years%20of%20Rapid%20Prototyping%20experience%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=#26A9E0&vCenter=true&pause=900&size=22" /></a>
 </p>
 
- <br/>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dominic-daly-6256a5157"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/78apom3.png"/></a>
