@@ -2,6 +2,13 @@
   <a href="https://www.linkedin.com/in/dominic-daly-6256a5157">
     <img src="https://avatars.githubusercontent.com/u/108104975?s=400&u=357d70b6065bbd71d9e13eb3b7eb12cec59c85a3&v=4" alt="Beyond Stem" /></a>
 </p>
+
+
+
+ <br/>
+
+<p align="center"><span style="color: #26A9E0; font-size: 34px;">Dominic Daly</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 34px;">BIndDes(Hons)</span></p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,12 +17,6 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dominic-daly-6256a5157"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/78apom3.png"/></a>
-
- <br/>
-
-<p align="center"><span style="color: #26A9E0; font-size: 34px;">Dominic Daly</span></p>
-<p align="center"><span style="color: #26A9E0; font-size: 34px;">BIndDes(Hons)</span></p>
-
 <br/>
 <br/>
 <br/>
