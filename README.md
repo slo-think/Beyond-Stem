@@ -27,7 +27,9 @@ I have lived in Brisbane since 2012. I moved to Brisbane from a rural town in QL
 
 I offer Industrial Design services for a select number of word-of-mouth clients and also run a design studio, [Studio Blackthorn](studioblackthorn.com.au). 
 
-With a focus on arts, industrial design, furniture design, and design for manufacturing, I actively collaborate with workshops, creative studios, and art practices to explore new methods and mediums. I am currently engaged in exploring the unique possibilities of 3D printing for producing finished pieces. In the big picture, I like to pay attention to how things come together and how they look and interact within a space.
+With a focus on arts, industrial design, furniture design, and design for manufacturing, I actively collaborate with workshops, creative studios, and art practices to explore new methods and mediums. I am currently engaged in exploring the unique possibilities of 3D printing for producing finished pieces. 
+
+In the big picture, I like to pay attention to how things come together and how they look and interact within a space.
 
  <br/>
 
