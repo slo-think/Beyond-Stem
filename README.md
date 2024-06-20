@@ -7,9 +7,8 @@
 
  <br/>
 
-<p align="center"><span style="color: #26A9E0; font-size: 34px;">Dominic Daly</span></p>
-<p align="center"><span style="color: #26A9E0; font-size: 34px;">BIndDes(Hons)</span></p>
-<br/>
+<p align="center"><span style="color: #26A9E0; font-size: 32px;">Dominic Daly</span></p>
+<p align="center"><span style="color: #26A9E0; font-size: 32px;">BIndDes(Hons)</span></p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
